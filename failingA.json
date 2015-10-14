@@ -1,0 +1,4590 @@
+
+{
+	"blobs" : 
+	[
+		
+		{
+			"display_name" : "DMX",
+			"file_name" : "F0Y44231284G9PR9P_20141018-084820.437370_J82_IQC-DISPLAY_DMX.zip",
+			"file_size" : "4022534",
+			"retention_policy" : 30
+		}
+	],
+	"results" : 
+	[
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "CAMERA_TYPE CAS_140",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_test" : "CAS_140",
+			"test" : "CAMERA_TYPE",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "594814214"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM MEASURE_YM YELLOW_MURA_cct",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YELLOW_MURA_cct",
+			"sub_test" : "MEASURE_YM",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "10461.977180"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM MEASURE_YM YELLOW_MURA_mi",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YELLOW_MURA_mi",
+			"sub_test" : "MEASURE_YM",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.338709"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM MEASURE_YM YELLOW_MURA_x",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YELLOW_MURA_x",
+			"sub_test" : "MEASURE_YM",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.283574"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM MEASURE_YM YELLOW_MURA_y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YELLOW_MURA_y",
+			"sub_test" : "MEASURE_YM",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.275855"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM MEASURE_YM YELLOW_MURA_Y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YELLOW_MURA_Y",
+			"sub_test" : "MEASURE_YM",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "91.888487"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL MEASURE_BLACK BLACK_cct",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BLACK_cct",
+			"sub_test" : "MEASURE_BLACK",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "29310.044288"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL MEASURE_BLACK BLACK_mi",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BLACK_mi",
+			"sub_test" : "MEASURE_BLACK",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "14.328479"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL MEASURE_BLACK BLACK_x",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BLACK_x",
+			"sub_test" : "MEASURE_BLACK",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.265629"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL MEASURE_BLACK BLACK_y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BLACK_y",
+			"sub_test" : "MEASURE_BLACK",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.235994"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL MEASURE_BLACK BLACK_Y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BLACK_Y",
+			"sub_test" : "MEASURE_BLACK",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.373969"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"message" : "ERROR: Measurment out of spec.",
+			"parametric_key" : "YM YM_J82 YMI",
+			"priority" : 0,
+			"result" : "fail",
+			"sub_sub_test" : "YMI",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "8.3",
+			"value" : "9.1281"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMILoc",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMILoc",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "8.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 minLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "minLum",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "67.5954"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 maxLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "maxLum",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "95.4368"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 minvM",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "minvM",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.4654"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 medianvM",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "medianvM",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.4688"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 maxvM",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "maxvM",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.4740"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YM_Rev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YM_Rev",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "8231.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_1",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.1372"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_2",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.7570"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_3",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.7830"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_4",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.3310"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_5",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.3676"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_6",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "5.0698"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_7",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.5235"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_8",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "9.1281"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_9",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_9",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "7.0911"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_10",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_10",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "7.8837"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_11",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_11",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "6.6209"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_12",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_12",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "5.5071"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_13",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_13",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "5.3357"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_14",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_14",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.5027"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_15",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_15",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.7549"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_16",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_16",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.5215"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_17",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_17",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.7107"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_18",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_18",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.3341"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_19",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_19",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.8368"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_20",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_20",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "5.8886"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_21",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_21",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.1676"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_22",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_22",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.5760"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_23",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_23",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.5182"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_24",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_24",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.0730"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_25",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_25",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.7004"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_26",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_26",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.5865"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_27",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_27",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.6962"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_28",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_28",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.5234"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_29",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_29",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.4215"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_30",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_30",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.2176"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_31",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_31",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.0785"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_32",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_32",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.8920"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_33",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_33",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.1334"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_34",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_34",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.7093"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_35",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_35",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.1304"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_36",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_36",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.1510"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_37",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_37",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.2502"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_38",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_38",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "2.5597"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_39",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_39",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.0379"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_40",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_40",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.4612"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_41",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_41",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.0727"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_42",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_42",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.2272"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_43",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_43",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.6248"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_44",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_44",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.2855"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_45",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_45",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.1800"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_46",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_46",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.0499"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_47",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_47",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.4597"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM YM_J82 YMI_48",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "YMI_48",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.0379"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"message" : "ERROR: Measurment out of spec.",
+			"parametric_key" : "YM YM_J82",
+			"priority" : 0,
+			"result" : "fail",
+			"sub_test" : "YM_J82",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "NA"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL pixelDefect_Algo_Rev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pixelDefect_Algo_Rev",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20140223"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL dimPixel_max_cen",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_cen_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_cen_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL dimPixel_max_edg",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_edg_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_edg_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL dimPixel_max_cor",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_cor_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_max_cor_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_maxArea",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_maxArea",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL dimPixel_maxVolume",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_maxVolume",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL litPixel_max_cen",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_cen_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_cen_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL litPixel_max_edg",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_edg_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_edg_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL litPixel_max_cor",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_cor_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor_posX",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_max_cor_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor_posY",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_maxArea",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_maxArea",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL litPixel_maxVolume",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_maxVolume",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "532",
+			"parametric_key" : "YM BB_VL Crop_Row",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Crop_Row",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "588",
+			"value" : "571"
+		},
+		
+		{
+			"lower_limit" : "713",
+			"parametric_key" : "YM BB_VL Crop_Col",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Crop_Col",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "788",
+			"value" : "764"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Version",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Version",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20140616"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL VL_Index",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Index",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "0.6",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL HL_Index",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Index",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "0.6",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_1",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_2",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_3",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_4",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_5",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_6",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_7",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL VL_Loc_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_8",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_1",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_2",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_3",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_4",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_5",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_6",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_7",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL HL_Loc_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_8",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL BrightBand_Algo_Rev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "BrightBand_Algo_Rev",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20140205"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_cen_h_Max",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_cen_h_Max",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.5149"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_cen_h_Min",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_cen_h_Min",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "-0.4596"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL Bright_Band_Index_horizontal",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Bright_Band_Index_horizontal",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "12",
+			"value" : "1.9473"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_h_Max",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_h_Max",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3679"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_h_Min",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_h_Min",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "-3.0895"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_h_localDev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_h_localDev",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "6.3839"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_h_Area",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_h_Area",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_cen_v_Max",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_cen_v_Max",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3.2934"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_cen_v_Min",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_cen_v_Min",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "-0.6173"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "YM BB_VL Bright_Band_Index_vertical",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Bright_Band_Index_vertical",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "12",
+			"value" : "3.4397"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_v_Max",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_v_Max",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.4114"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_v_Min",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_v_Min",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "-4.7823"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_edg_v_localDev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_edg_v_localDev",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "13.6371"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "YM BB_VL wFPN_v_Area",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "wFPN_v_Area",
+			"sub_test" : "BB_VL",
+			"test" : "YM",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL LL_J82 Vth",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Vth",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "1000",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL LL_J82 pVth",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "300",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVthLoc",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVthLoc",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL LL_J82 Lcr",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Lcr",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "0.03",
+			"value" : "0.0105"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL LL_J82 pLcr",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "0.06",
+			"value" : "0.0274"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcrLoc",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcrLoc",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 MeanLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "MeanLum",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3549"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 SLLI",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "SLLI",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_1",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_2",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_3",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_4",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_5",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_6",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_7",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_8",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_9",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_9",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_10",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_10",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_11",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_11",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_12",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_12",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_13",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_13",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_14",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_14",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_15",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_15",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_16",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_16",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_17",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_17",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_18",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_18",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_19",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_19",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_20",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_20",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_21",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_21",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_22",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_22",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_23",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_23",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_24",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_24",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_25",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_25",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_26",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_26",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_27",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_27",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_28",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_28",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_29",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_29",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_30",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_30",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_31",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_31",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_32",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_32",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_33",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_33",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_34",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_34",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_35",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_35",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_36",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_36",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_37",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_37",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_38",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_38",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_39",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_39",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_40",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_40",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_41",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_41",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_42",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_42",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_43",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_43",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_44",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_44",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_45",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_45",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_46",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_46",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_47",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_47",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pVth_48",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pVth_48",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_1",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0157"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_2",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0148"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_3",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0092"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_4",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0109"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_5",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0106"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_6",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0087"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_7",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0085"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_8",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0083"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_9",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_9",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0091"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_10",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_10",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0081"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_11",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_11",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0067"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_12",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_12",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0083"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_13",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_13",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0097"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_14",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_14",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0079"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_15",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_15",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0092"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_16",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_16",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0152"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_17",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_17",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0166"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_18",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_18",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0110"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_19",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_19",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0032"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_20",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_20",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0025"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_21",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_21",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0051"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_22",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_22",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0082"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_23",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_23",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0087"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_24",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_24",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0084"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_25",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_25",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0096"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_26",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_26",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0071"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_27",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_27",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0009"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_28",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_28",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0023"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_29",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_29",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0044"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_30",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_30",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0043"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_31",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_31",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0021"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_32",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_32",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0016"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_33",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_33",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0050"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_34",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_34",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0049"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_35",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_35",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0021"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_36",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_36",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0023"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_37",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_37",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0102"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_38",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_38",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0110"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_39",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_39",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0274"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_40",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_40",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0122"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_41",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_41",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0130"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_42",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_42",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0078"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_43",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_43",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0073"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_44",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_44",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0066"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_45",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_45",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0063"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_46",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_46",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0095"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_47",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_47",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0098"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 pLcr_48",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pLcr_48",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0108"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_1",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_2",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_3",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_4",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_5",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_6",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_7",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_8",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_9",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_9",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_10",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_10",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_11",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_11",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_12",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_12",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_13",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_13",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_14",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_14",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_15",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_15",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_16",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_16",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_17",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_17",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_18",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_18",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_19",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_19",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_20",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_20",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_21",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_21",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_22",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_22",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_23",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_23",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_24",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_24",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_25",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_25",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_26",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_26",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_27",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_27",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_28",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_28",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_29",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_29",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_30",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_30",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_31",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_31",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_32",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_32",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_33",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_33",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_34",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_34",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_35",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_35",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_36",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_36",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_37",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_37",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_38",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_38",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_39",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_39",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_40",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_40",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_41",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_41",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_42",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_42",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_43",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_43",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_44",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_44",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_45",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_45",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_46",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_46",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_47",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_47",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LLI_48",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LLI_48",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 CenLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "CenLum",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3739"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 LL_ver",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "LL_ver",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "8211.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 SLLI_ver",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "SLLI_ver",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "9622.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 PHC",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "PHC",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 Ibase",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Ibase",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3526"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL LL_J82 Ith",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Ith",
+			"sub_test" : "LL_J82",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.4438"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU MEASURE_W-255 W-255_cct",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "W-255_cct",
+			"sub_test" : "MEASURE_W-255",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "6457.848317"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU MEASURE_W-255 W-255_mi",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "W-255_mi",
+			"sub_test" : "MEASURE_W-255",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "4.405784"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU MEASURE_W-255 W-255_x",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "W-255_x",
+			"sub_test" : "MEASURE_W-255",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.313796"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU MEASURE_W-255 W-255_y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "W-255_y",
+			"sub_test" : "MEASURE_W-255",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.327409"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU MEASURE_W-255 W-255_Y",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "W-255_Y",
+			"sub_test" : "MEASURE_W-255",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "407.949064"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 MaxLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "MaxLum",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "419.6933"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 MinLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "MinLum",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "342.7011"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 AvgLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "AvgLum",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "390.5427"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 CenLum",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "CenLum",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "409.6690"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 GLumUniformity",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "GLumUniformity",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "81.6551"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 NLumUniformity",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "NLumUniformity",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "93.8595"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 CenCx",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "CenCx",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3139"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 CenCy",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "CenCy",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.3273"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 dx",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dx",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0055"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "WU WU_J82 dy",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dy",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0082"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "WU WU_J82 duvWRTCen",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "duvWRTCen",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "0.0071",
+			"value" : "0.0043"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "WU WU_J82 duvOverPanel",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "duvOverPanel",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "0.0093",
+			"value" : "0.0052"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "WU WU_J82 duvWorstNeig",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "duvWorstNeig",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "0.0032",
+			"value" : "0.0018"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "WU WU_J82 duvLongEdge",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "duvLongEdge",
+			"sub_test" : "WU_J82",
+			"test" : "WU",
+			"units" : "NA",
+			"upper_limit" : "0.005",
+			"value" : "0.0013"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black pixelDefect_Algo_Rev",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "pixelDefect_Algo_Rev",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20140223"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cen",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cen_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cen_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cen_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_edg",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_edg_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_edg_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_edg_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cor",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cor_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_max_cor_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_max_cor_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_maxArea",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_maxArea",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black dimPixel_maxVolume",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "dimPixel_maxVolume",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cen",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cen_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cen_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cen_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_edg",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_edg_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_edg_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_edg_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cor",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "600",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cor_posX",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor_posX",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_max_cor_posY",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_max_cor_posY",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_maxArea",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_maxArea",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black litPixel_maxVolume",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "litPixel_maxVolume",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "532",
+			"parametric_key" : "LL BB_VL_Black Crop_Row",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Crop_Row",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "588",
+			"value" : "570"
+		},
+		
+		{
+			"lower_limit" : "713",
+			"parametric_key" : "LL BB_VL_Black Crop_Col",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "Crop_Col",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "788",
+			"value" : "764"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Version",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Version",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "20140616"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black VL_Index",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Index",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "0.2",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "0",
+			"parametric_key" : "LL BB_VL_Black HL_Index",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Index",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "0.2",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_1",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_2",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_3",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_4",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_5",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_6",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_7",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black VL_Loc_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "VL_Loc_8",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_1",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_1",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_2",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_2",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_3",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_3",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_4",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_4",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_5",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_5",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_6",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_6",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_7",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_7",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "LL BB_VL_Black HL_Loc_8",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_sub_test" : "HL_Loc_8",
+			"sub_test" : "BB_VL_Black",
+			"test" : "LL",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "0.0000"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "NEST_NUMBER NEST_NUMBER",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_test" : "NEST_NUMBER",
+			"test" : "NEST_NUMBER",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "3"
+		},
+		
+		{
+			"lower_limit" : "NA",
+			"parametric_key" : "UNIT_NUMBER UNIT_NUMBER",
+			"priority" : 0,
+			"result" : "pass",
+			"sub_test" : "UNIT_NUMBER",
+			"test" : "UNIT_NUMBER",
+			"units" : "NA",
+			"upper_limit" : "NA",
+			"value" : "1"
+		}
+	],
+	"test_attributes" : 
+	{
+		"bobcat_signature" : "141e7d81b0d49307ab7c223c432a3511779abbb46b1767c4e9205b2866d8b35212bf0baa93dd3193399445d9a07966055a287fcf95072d2a0e0854648df443ca845f30e621b7c9448b03403f7ca49e0d0cc117710e5dd234c085f715a4cdbe29a8cd4d913d1d42fd51d146497f1b6c47a3aa1ef32e81003c612afccb77a7385b",
+		"pdata_not_sent_to_pdca" : "NOTFOUND",
+		"signature_version" : "1",
+		"skunk_signature" : "1eb90764a27dbec6d8b1927add75441dbfb6d82334c998b666e9c35e82e7398392a168095538fbb12c5f87f93b278b365c9f68cae3593dc8a0362663db399cd8973a727fa3922a82e7e5f10075d5e3186f6b48bcbd626b12f08acf4699d42eb376ad4eb8eae5856900b3edbe522a588adaa2168e02b5db519d04537b4587af13",
+		"test_result" : "FAIL",
+		"unit_serial_number" : "F0Y44231284G9PR9P",
+		"uut_start" : "2014-10-18 08:48:05",
+		"uut_stop" : "2014-10-18 08:48:19"
+	},
+	"test_station_attributes" : 
+	{
+		"ip_version" : "1.1.96",
+		"limits_version" : "30.5.19.08.06.14",
+		"mac_addr" : "0c:4d:e9:9a:5a:9c",
+		"software_name" : "DMX",
+		"software_version" : "30.5.19.08.06.14",
+		"station_id" : "APPL_E03-4F-IQC_20_IQC-DISPLAY",
+		"station_name" : "IQC-DISPLAY"
+	},
+	"uut_attributes" : 
+	{
+		"LCM_FULL_SN" : "F0Y44231284G9PR9P3514AE1G3RPGQTUCD244220EQ2669B2B2C4344132N92FPTPAYT1M",
+		"LCM_VENDOR_NAME" : "CA"
+	}
+}

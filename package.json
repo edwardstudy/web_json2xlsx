@@ -1,0 +1,19 @@
+{
+  "name": "web_json2xlsx",
+  "version": "0.1.0",
+  "description": "json2xlsx is inspired by ",
+  "keywords": [
+    "util",
+    "json",
+    "xlsx",
+    "nodejs"
+  ],
+  "author": "Edward  <shawzida@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EdwardStudy/web_json2xlsx.git"
+  },
+  "dependencies": {
+    "json2xlsx": "^0.1.6"
+  }
+}
